@@ -1,8 +1,12 @@
 body{
     color:aquamarine;
     background-color: blue;
+    margin: 0px;
 }
 
 header{
-    border-bottom: solid 3px rgb(red, green, blue)
+    border-bottom: solid 3px rgb(red, green, blue);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(42, 122, 228);
 }
