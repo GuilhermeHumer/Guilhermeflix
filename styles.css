@@ -2,6 +2,7 @@ body{
     color:aquamarine;
     background-color: blue;
 }
+
 header{
-    border: solid 3px rgb(red, green, blue)
+    border-bottom: solid 3px rgb(red, green, blue)
 }
